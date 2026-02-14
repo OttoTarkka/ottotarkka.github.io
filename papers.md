@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Here is a list of all my research papers and conference presentations. This listing is up-to-data as of 14 February 2026.
+Here is a list of all my research papers and conference presentations. This listing is up-to-date as of 14 February 2026.
 
 ## Papers
 
