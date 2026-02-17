@@ -22,7 +22,7 @@ title: Otto Tarkka
 email: ohitar@utu.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Doctoral Researcher at the University of Turku. Proud member of TurkuNLP.
-  Working on applying machine learning and LLM methods to corpus linguistics.
+  Working on applying machine learning and LLM methods to advance corpus linguistics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ottotarkka
