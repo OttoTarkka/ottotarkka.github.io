@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "New article published in Digital Humanities Quarterly"
+date:   2026-02-14 19:59:20 +0200
+categories: general
+---
+
+I am happy to announce that my article titled [*Do all politicians sound the same? Comparing model explanations to human responses*](https://dhq.digitalhumanities.org/vol/20/1/000839/000839.html) has been published in Digital Humanities Quarterly. I did the bulk of the work for this paper but was greatly helped by and share authorship with my PhD supervisors Kimmo Elo, Filip Ginter and Veronika Laippala.
+
+In this paper, we fine-tune a BERT model to predict political party affiliation based on speeches held in the Finnish parliament. We analyse the model predictions with the explainability method [SHAP](https://shap-community.readthedocs.io/en/latest/) to identify which features of the speakers' language the model has learned to pay attention to. We find that the model attends to both what we call topical cues (i.e. what the speech is about) and rhetorical cues (i.e. the style and tone of the speech). We also ask human respondents to try and identify party affiliation given nothing but plenary speeches. We find that our BERT model does a lot better than humans in this task.
+
+Writing this paper was quite a journey for me and not always a pleasant one. This was one of the first papers I worked and the first one that I can really claim as *mine*, even though it only now got published. I started working on this soon after I finished by Master's and before I started my PhD studies. My Python skills were very rudimental still, so suddenly training deep-learning models with supercomputers was quite a steep hill to climb. I learned a lot and was very fortunate to have the great people of TurkuNLP supporting me.
+
+The article went through many changes and revisions and I-don't-know-how-many rejections from journals. It was quite discouraging to get rejected over and over again with my very first article. I coined the term "forever paper" to refer to this paper as I just couldn't get it published. The seemingly endless revisions did make the paper better, though, and now it is finally out! 
+
+This paper was definitely a learning experience. If I were to redo it now, there are certainly things I would do differently. Still, I think it's a perfectly decent paper. If you're interested in political speeches, machine-learning or model explainability methods, I encourage you to give it a read.
