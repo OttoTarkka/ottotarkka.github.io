@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New article published in Digital Humanities Quarterly"
-date:   2026-02-14 19:59:20 +0200
+date:   2026-02-23 15:57:00 +0200
 categories: general
 ---
 
