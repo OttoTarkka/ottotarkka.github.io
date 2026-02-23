@@ -10,7 +10,7 @@ Here is a list of all my research papers and conference presentations. This list
 
 #### 2026
 - Elo, K., **Tarkka, O.**, Laine, J., Koljonen, J., Korhonen, M., & Martiskainen, K. (forthcoming) Exploring Emotions in Parliamentary Debates with a Sentiment Recognition Deep Learning Model: A Case Study of Finnish Plenary Debates on Economy and Environmental Issues 1990-2023. 
-- **Tarkka, O.**, Elo, K., Ginter, F., & Laippala, V. (forthcoming) Do all politicians sound the same? Comparing model explanations to human responses. *Digital Humanities Quarterly*.
+- **Tarkka, O.**, Elo, K., Ginter, F., & Laippala, V. (2026). Do all politicians sound the same? Comparing model explanations to human responses. *Digital Humanities Quarterly 20(1)*. URL: <https://dhq.digitalhumanities.org/vol/20/1/000839/000839.html>
 - Saarni, J., **Tarkka, O.**, & Laippala, V. (2026). Evaluation in social media discourse: A corpus-assisted discourse study of evaluative images of the Covid-19 pandemic on the Finnish Twitter-sphere. *Finnish Journal of Linguistics 38*, pp. 139–165. <https://doi.org/10.61197/fjl.156423>
 
 #### 2025 
