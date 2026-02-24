@@ -4,14 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-Here is a list of my research papers, conference presentations and other research activities. This listing is up-to-date as of 23 February 2026.
+Here is a list of my research papers, conference presentations and other research activities. This listing is up-to-date as of 24 February 2026.
 
 ## Papers
 
 #### 2026
 - Elo, K., **Tarkka, O.**, Laine, J., Koljonen, J., Korhonen, M., & Martiskainen, K. (forthcoming) Exploring Emotions in Parliamentary Debates with a Sentiment Recognition Deep Learning Model: A Case Study of Finnish Plenary Debates on Economy and Environmental Issues 1990-2023. 
 - **Tarkka, O.**, Elo, K., Ginter, F., & Laippala, V. (2026). Do all politicians sound the same? Comparing model explanations to human responses. *Digital Humanities Quarterly 20(1)*. URL: <https://dhq.digitalhumanities.org/vol/20/1/000839/000839.html>
-- Saarni, J., **Tarkka, O.**, & Laippala, V. (2026). Evaluation in social media discourse: A corpus-assisted discourse study of evaluative images of the Covid-19 pandemic on the Finnish Twitter-sphere. *Finnish Journal of Linguistics 38*, pp. 139–165. <https://doi.org/10.61197/fjl.156423>
+- Saarni, J., **Tarkka, O.**, & Laippala, V. (2026). Evaluation in social media discourse: A corpus-assisted discourse study of evaluative images of the Covid-19 pandemic on the Finnish Twitter-sphere. *Finnish Journal of Linguistics 38*, pp. 139–165. URL: <https://doi.org/10.61197/fjl.156423>
+- Ristilä, A., **Tarkka, O.**, Laippala V., & Elo, K. (2026, to appear). Hopes and Fears — Emotion Distribution in the Topic Landscape of Finnish Parliamentary Speech 2000-2020. *ArXiv preprint*. URL: <https://arxiv.org/abs/2601.20424>
 
 #### 2025 
 - Henriksson, E., **Tarkka, O.**, & Ginter, F. (2025) FinerWeb-10BT: Refining web data with LLM-based line-level filtering. *Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)*, pp. 70–76. URL: <https://aclanthology.org/2025.nodalida-1.27/>
