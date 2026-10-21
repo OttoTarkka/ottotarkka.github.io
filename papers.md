@@ -4,11 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-Here is a list of my research papers, conference presentations and other research activities. This listing is up-to-date as of 24 February 2026.
+Here is a list of my research papers, conference presentations and other research activities. This listing is up-to-date as of 10 October 2026.
 
 ## Papers
 
 #### 2026
+- **Tarkka, O.**, Henriksson, E., Kanerva, J., & Ginter, F. (forthcoming) Task-Agnostic Web Document Annotation with LLM-Generated Descriptors.
 - Elo, K., **Tarkka, O.**, Laine, J., Koljonen, J., Korhonen, M., & Martiskainen, K. (forthcoming) Exploring Emotions in Parliamentary Debates with a Sentiment Recognition Deep Learning Model: A Case Study of Finnish Plenary Debates on Economy and Environmental Issues 1990-2023. 
 - **Tarkka, O.**, Elo, K., Ginter, F., & Laippala, V. (2026). Do all politicians sound the same? Comparing model explanations to human responses. *Digital Humanities Quarterly 20(1)*. URL: <https://dhq.digitalhumanities.org/vol/20/1/000839/000839.html>
 - Saarni, J., **Tarkka, O.**, & Laippala, V. (2026). Evaluation in social media discourse: A corpus-assisted discourse study of evaluative images of the Covid-19 pandemic on the Finnish Twitter-sphere. *Finnish Journal of Linguistics 38*, pp. 139–165. URL: <https://doi.org/10.61197/fjl.156423>
@@ -28,7 +29,7 @@ Here is a list of my research papers, conference presentations and other researc
 - Kanerva, J. Ginter, F., Chang, L., Rastas, I., Skantsi, V., Kilpeläinen, J., Kupari, H.-M., Saarni, J., Sevón, M., & **Tarkka, O.** (2021). Finnish Paraphrase Corpus. *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)*, pp. 288–298. URL: <https://aclanthology.org/2021.nodalida-main.29/>
 
 
-## Conference presentations
+## Conference and workhshop presentations
 
 #### 2025 
 - NoDaLiDa/Baltic-HLT, Tallinn, Estonia. *FinerWeb-10BT: Refining web data with LLM-based line-level filtering* (presentation).
