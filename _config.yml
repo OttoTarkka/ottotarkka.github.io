@@ -27,6 +27,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ottotarkka
 
+# Extra links shown in the footer, next to the GitHub link (see _includes/social.html)
+extra_links:
+  - name: University of Turku
+    url: https://www.utu.fi/en/people/otto-tarkka
+  - name: Bluesky
+    url: https://bsky.app/profile/ottotarkka.bsky.social
+
 # Build settings
 theme: minima
 #remote_theme: jekyllt/jasper
