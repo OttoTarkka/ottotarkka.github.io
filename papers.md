@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-Here is a list of my research papers, conference presentations and other research activities. This listing is up-to-date as of 10 October 2026.
+Here is a list of my research papers, conference presentations and other research activities. This list is up-to-date as of 16 November 2026.
 
 ## Papers
 
 #### 2026
-- **Tarkka, O.**, Henriksson, E., Kanerva, J., & Ginter, F. (forthcoming) Task-Agnostic Web Document Annotation with LLM-Generated Descriptors.
+- **Tarkka, O.**, Henriksson, E., Kanerva, J., & Ginter, F. (2026). Task-Agnostic Web Document Annotation with LLM-Generated Descriptors. In *Proceedings of the 13th Web-as-Corpus Workshop*, pp. 252–281. URL: <https://aclanthology.org/2026.wac-1.24/>
 - Elo, K., **Tarkka, O.**, Laine, J., Koljonen, J., Korhonen, M., & Martiskainen, K. (forthcoming) Exploring Emotions in Parliamentary Debates with a Sentiment Recognition Deep Learning Model: A Case Study of Finnish Plenary Debates on Economy and Environmental Issues 1990-2023. 
 - **Tarkka, O.**, Elo, K., Ginter, F., & Laippala, V. (2026). Do all politicians sound the same? Comparing model explanations to human responses. *Digital Humanities Quarterly 20(1)*. URL: <https://dhq.digitalhumanities.org/vol/20/1/000839/000839.html>
 - Saarni, J., **Tarkka, O.**, & Laippala, V. (2026). Evaluation in social media discourse: A corpus-assisted discourse study of evaluative images of the Covid-19 pandemic on the Finnish Twitter-sphere. *Finnish Journal of Linguistics 38*, pp. 139–165. URL: <https://doi.org/10.61197/fjl.156423>
